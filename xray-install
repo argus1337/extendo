@@ -71,11 +71,11 @@ cat << EOF > /usr/local/etc/xray/config.json
                 "security": "reality",
                 "realitySettings": {
                     "show": false,
-                    "dest": "sun6-22.userapi.com:443",
+                    "dest": "sync.browser.yandex.net:443",
                     "xver": 0,
                     "serverNames": [
-                        "sun6-22.userapi.com",
-                        "www.sun6-22.userapi.com"
+                        "sync.browser.yandex.net",
+                        "www.sync.browser.yandex.net"
                     ],
                     "privateKey": "$privatkey",
                     "minClientVer": "",
